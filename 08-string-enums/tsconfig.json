@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "rootDir": "src",
+        "outDir": "dist",
+        "strictNullChecks": true,
+        "preserveConstEnums": true
+    }
+}
