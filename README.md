@@ -2,6 +2,8 @@
 
 This repository contains the code for my [Advanced Static Types in TypeScript](https://egghead.io/courses/advanced-static-types-in-typescript) video course.
 
+<a href="https://egghead.io/courses/advanced-static-types-in-typescript" title="Advanced Static Types in TypeScript"><img src="https://raw.githubusercontent.com/mariusschulz/egghead-advanced-typescript/master/course-artwork.png" alt="Advanced Static Types in TypeScript" width="250" height="250" /></a>
+
 ## Lessons
 
 1. [Restrict null and undefined via Non-Nullable-Types in TypeScript](https://egghead.io/lessons/typescript-restrict-null-and-undefined-via-non-nullable-types-in-typescript)
